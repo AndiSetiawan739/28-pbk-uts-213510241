@@ -2,7 +2,7 @@
   <div class="container py-5"> 
     <nav class="navbar navbar-expand-lg navbar-light bg-light">
       <div class="container-fluid">
-        <router-link class="navbar-brand" to="/">AndiApp</router-link>
+        <h1 class="navbar-brand" >AndiApp</h1>
         <button
           class="navbar-toggler"
           type="button"
