@@ -26,6 +26,9 @@
             <li class="nav-item">
               <router-link class="nav-link" to="/about">Tentang</router-link>
             </li>
+            <li class="nav-item">
+              <router-link class="nav-link" to="/store">PiniaStore</router-link>
+            </li>
           </ul>
         </div>
       </div>
@@ -150,6 +153,12 @@ export default {
   },
 };
 </script>
+
 <style>
-@import "./assets/styles.css";
+#app {
+  background-color:#292929;;
+  color: white;
+  min-height: 100vh;
+}
+
 </style>
